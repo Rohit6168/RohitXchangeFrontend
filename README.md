@@ -254,7 +254,7 @@ RohitXchange is a modern cryptocurrency exchange platform that enables users to 
 
 ### Backend Repository
 
-The backend for this project is maintained in a separate repository:
+The backend for this project is maintained in a separate repository and may be private(:
 
 **🔗 Backend Repository:** [RohitXchangeBackend](https://github.com/Rohit6168/RohitXchangeBackend)
 
@@ -409,8 +409,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Rohit Nilesh Lokhande**
 
 - 🐙 GitHub: [@Rohit6168](https://github.com/Rohit6168)
-- 📧 Email: hrsh@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 📧 Email: rohitlokhande616@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rohit-lokhande-070262376/)
 - 🔗 Project Link: [https://github.com/Rohit6168/RohitXchangeFrontend](https://github.com/Rohit6168/RohitXchangeFrontend)
 - 🌐 Live Demo: [https://rohit-xchange-frontend.vercel.app/](https://rohit-xchange-frontend.vercel.app/)
 
