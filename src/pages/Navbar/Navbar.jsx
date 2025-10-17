@@ -53,7 +53,7 @@ const Navbar = () => {
                     </Avatar>
                     <div>
                       <span className="font-bold text-orange-700">Rohit</span>
-                      <span>Tread</span>
+                      <span>Trade</span>
                     </div>
                   </div>
                 </SheetTitle>
