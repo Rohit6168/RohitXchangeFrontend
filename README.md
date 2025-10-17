@@ -204,7 +204,7 @@ RohitXchange is a modern cryptocurrency exchange platform that enables users to 
 <table>
   <tr>
     <td><img src="screenshots/profile.png" alt="Profile" width="400"/><br/><b>User Profile</b></td>
-    <td><img src="screenshots/sidebar.png" alt="menu" width="400"/><br/><b>Navigation Sidebar</b></td>
+    <td><img src="screenshots/menu.png" alt="menu" width="400"/><br/><b>Navigation Sidebar</b></td>
   </tr>
 </table>
 
