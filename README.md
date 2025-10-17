@@ -171,7 +171,7 @@ RohitXchange is a modern cryptocurrency exchange platform that enables users to 
 ### 🔐 Authentication
 <table>
   <tr>
-    <td><img src="screenshots/signup.png" alt="Sign Up" width="400"/><br/><b>Sign Up Page</b></td>
+    <td><img src="screenshots/register.png" alt="Sign Up" width="400"/><br/><b>Sign Up Page</b></td>
     <td><img src="screenshots/login.png" alt="Login" width="400"/><br/><b>Login Page</b></td>
   </tr>
 </table>
@@ -179,12 +179,12 @@ RohitXchange is a modern cryptocurrency exchange platform that enables users to 
 ### 📊 Dashboard & Trading
 <table>
   <tr>
-    <td><img src="screenshots/dashboard.png" alt="Dashboard" width="400"/><br/><b>Main Dashboard</b></td>
-    <td><img src="screenshots/chart.png" alt="Trading Chart" width="400"/><br/><b>Real-time Price Chart</b></td>
+    <td><img src="screenshots/dash.png" alt="Dashboard" width="400"/><br/><b>Main Dashboard</b></td>
+    <td><img src="screenshots/crypto.png" alt="Trading Chart" width="400"/><br/><b>Real-time Price Chart</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/trade-modal.png" alt="Trade Modal" width="400"/><br/><b>Buy/Sell Modal</b></td>
-    <td><img src="screenshots/trade-history.png" alt="Trade History" width="400"/><br/><b>Trading History</b></td>
+    <td><img src="screenshots/chatbot.png" alt="Trade Modal" width="400"/><br/><b>AI chatbot</b></td>
+    <td><img src="screenshots/history.png" alt="Trade History" width="400"/><br/><b>Trading History</b></td>
   </tr>
 </table>
 
@@ -192,11 +192,11 @@ RohitXchange is a modern cryptocurrency exchange platform that enables users to 
 <table>
   <tr>
     <td><img src="screenshots/wallet.png" alt="Wallet" width="400"/><br/><b>Wallet Dashboard</b></td>
-    <td><img src="screenshots/add-money.png" alt="Add Money" width="400"/><br/><b>Add Money Modal</b></td>
+    <td><img src="screenshots/paymethod.png" alt="Add Money" width="400"/><br/><b>Add Money Modal</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/payment-success.png" alt="Payment Success" width="400"/><br/><b>Payment Successful</b></td>
-    <td><img src="screenshots/wallet-updated.png" alt="Wallet Updated" width="400"/><br/><b>Updated Balance</b></td>
+    <td><img src="screenshots/pay.png" alt="Payment Success" width="400"/><br/><b>Payment Successful</b></td>
+    <td><img src="screenshots/walletup.png" alt="Wallet Updated" width="400"/><br/><b>Updated Balance</b></td>
   </tr>
 </table>
 
@@ -204,7 +204,7 @@ RohitXchange is a modern cryptocurrency exchange platform that enables users to 
 <table>
   <tr>
     <td><img src="screenshots/profile.png" alt="Profile" width="400"/><br/><b>User Profile</b></td>
-    <td><img src="screenshots/sidebar.png" alt="Sidebar" width="400"/><br/><b>Navigation Sidebar</b></td>
+    <td><img src="screenshots/sidebar.png" alt="menu" width="400"/><br/><b>Navigation Sidebar</b></td>
   </tr>
 </table>
 
